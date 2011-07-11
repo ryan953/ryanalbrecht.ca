@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>ryanalbrecht.ca</title>
 
-	<link rel="stylesheet" type="text/css" href="/all.css" />
+	<link rel="stylesheet" type="text/css" href="./all.css" />
 	
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
@@ -23,10 +23,12 @@
 		<div class="content">
 		
 			<section id="introduction">
+				
 				<h1>Hi there</h1>
+				<img src="./ryan-albrecht.jpg" alt="portrait of Ryan Albrecht"/>
 				<p>
-					I'm <em>Ryan Albrecht</em> and I create web applications and solve problems.
-					You can find me in <em>Toronto Ontario, Canada</em>.
+					My name is <em>Ryan Albrecht</em> and I create web applications and solve problems.
+					You can find me in <em>Toronto</em>.
 				</p>
 			</section>
 	

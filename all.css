@@ -76,6 +76,11 @@ dt + dd.half:nth-child(n) {
 dd.half a { 
 	display:block; 
 }
+img { 
+	float:left;
+	width:84px;
+	padding:.75em .75em 0 0;
+}
 em {
 	color:black;
 	font-style:normal;
