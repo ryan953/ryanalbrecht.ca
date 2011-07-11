@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>ryanalbrecht.ca</title>
+
+	<link rel="stylesheet" type="text/css" href="/all.css" />
+	
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-20543648-1']);
+		_gaq.push(['_trackPageview']);
+	
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div class="wrapper civilization">
+		<div class="content">
+		
+			<section id="introduction">
+				<h1>Hi there</h1>
+				<p>
+					I'm <em>Ryan Albrecht</em> and I create web applications and solve problems.
+					You can find me in <em>Toronto Ontario, Canada</em>.
+				</p>
+			</section>
+	
+			<section id="contact-info">
+				<h1>How to get in touch</h1>
+				<dl>
+					<dt>Email/MSN/GTalk</dt>
+					<dd><a href="mailto:ryan@ryanalbrecht.ca" title="My Email"><em>ryan@ryanalbrecht.ca</em></a></dd>
+	
+					<dt>This Website</dt>
+					<dd><a href="http://ryanalbrecht.ca" title="That's this website!"><em>ryanalbrecht.ca</em></a></dd>
+					
+					<dt>My Resume/CV</dt>
+					<dd>
+						<a href="albrecht_ryan_resume.html" title="My Resume"><em>HTML format</em></a>
+						or
+						<a href="albrecht_ryan_resume.pdf" title="My Resume"><em>PDF</em></a>
+					</dd>
+					
+					<dt>Other Places</dt>
+					<dd><a href="http://www.freshbooks.com/our-team.php#ryan" title="FreshBooks"><em>FreshBooks</em></a></dd>
+					<dd><a href="https://plus.google.com/100893252150236411014/buzz" title="Google Plus Profile"><em>Google+</em></a></dd>
+					<dd><a href="http://twitter.com/ryan953" title="Twitter profile"><em>Twitter @ryan953</em></a></dd>
+					<dd><a href="http://ca.linkedin.com/in/ryanalbrecht" title="LinkedIn profile"><em>LinkedIn</em></a></dd>
+				</dl>
+			</section>
+	
+			<section id="projects">
+				<h1>Side Projects</h1>
+				<section id="apps">
+					<ul>
+						<li><a href="//apps.ryan953.com/sets">Sets! Card Game</a></li>
+						<li><a href="//andthatisafact.com">And That Is A Fact</a></li>
+						<li><a href="//bierfrau.com">Bier Frau</a></li>
+						<li><a href="//apps.ryan953.com/link_map2">JavaScript Link Map</a></li>
+						<li><a href="//apps.ryan953.com/computational_math">Computational Math Algorithms Implemented in JavaScript</a></li>
+					</ul>
+				</section>
+	
+				<section id="scripts">
+					<h1>Scripts</h1>
+					<ul>
+						<li><a href="//apps.ryan953.com/src/fixVideoFiles.bash">Add .avi files to your iTunes library (needs Xcode)</a></li>
+					</ul>
+				</section>
+			</section>
+			
+			<?php include('books.php'); ?>
+			
+			<section id="books">
+				<h1>Reading List</h1>
+				<section id="my-shelf">
+					<h1>Books I've Read</h1>
+					<ul>
+						<?php echo getBookList(books(), true); ?>
+					</ul>
+				</section>
+				<section id="wish-list">
+					<h1 class="toggler">My Wish List</h1>
+					<ul>
+						<?php echo getBookList(books(), false); ?>
+					</ul>
+				</section>
+			</section>
+			
+			<?php
+			$width = '720px';
+			$height = '500px';
+			?>
+	
+			<!--
+			<div class="stacked" id="map" style="width:<?php echo $width ?>; height:<?php echo $height ?>;">
+				<canvas class="background" width="<?php echo $width ?>" height="<?php echo $height ?>"></canvas>
+				<div class="overlay"></div>
+			</div>
+			-->
+		</div>
+	</div>
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+	<script src="http://www.google.ca/reader/ui/publisher-en.js"></script>
+	
+	<script src="./nodes.json" type="text/javascript"></script>
+	<script src="./links.json" type="text/javascript"></script>
+	
+	<script src="./defaults.js"></script>
+	<script src="./template.js"></script>
+	<script src="./link-map.js"></script>
+	
+	<script>
+	$(document).ready(function() {
+		/*map.clear();
+		map.nodes = nodes;
+		map.links = links;
+		map.draw();*/
+	});
+	</script>
+
+</body>
+</html>
