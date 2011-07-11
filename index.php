@@ -23,9 +23,8 @@
 		<div class="content">
 		
 			<section id="introduction">
-				
 				<h1>Hi there</h1>
-				<img src="./ryan-albrecht.jpg" alt="portrait of Ryan Albrecht"/>
+				<img id="portrait" src="./ryan-albrecht.jpg" alt="portrait of Ryan Albrecht"/>
 				<p>
 					My name is <em>Ryan Albrecht</em> and I create web applications and solve problems.
 					You can find me in <em>Toronto</em>.
@@ -38,12 +37,9 @@
 					<dt>Email/MSN/GTalk</dt>
 					<dd><a href="mailto:ryan@ryanalbrecht.ca" title="My Email"><em>ryan@ryanalbrecht.ca</em></a></dd>
 	
-					<dt>This Website</dt>
-					<dd><a href="http://ryanalbrecht.ca" title="That's this website!"><em>ryanalbrecht.ca</em></a></dd>
-					
 					<dt>Resume/CV</dt>
 					<dd>
-						<a href="albrecht_ryan_resume.html" title="My Resume"><em>HTML format</em></a>
+						<a href="albrecht_ryan_resume.html" title="My Resume"><em>HTML</em></a>
 						or
 						<a href="albrecht_ryan_resume.pdf" title="My Resume"><em>PDF</em></a>
 					</dd>
