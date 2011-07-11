@@ -39,7 +39,7 @@
 					<dt>This Website</dt>
 					<dd><a href="http://ryanalbrecht.ca" title="That's this website!"><em>ryanalbrecht.ca</em></a></dd>
 					
-					<dt>My Resume/CV</dt>
+					<dt>Resume/CV</dt>
 					<dd>
 						<a href="albrecht_ryan_resume.html" title="My Resume"><em>HTML format</em></a>
 						or
@@ -47,10 +47,11 @@
 					</dd>
 					
 					<dt>Other Places</dt>
-					<dd><a href="http://www.freshbooks.com/our-team.php#ryan" title="FreshBooks"><em>FreshBooks</em></a></dd>
-					<dd><a href="https://plus.google.com/100893252150236411014/buzz" title="Google Plus Profile"><em>Google+</em></a></dd>
-					<dd><a href="http://twitter.com/ryan953" title="Twitter profile"><em>Twitter @ryan953</em></a></dd>
-					<dd><a href="http://ca.linkedin.com/in/ryanalbrecht" title="LinkedIn profile"><em>LinkedIn</em></a></dd>
+					<dd class="half"><a href="http://www.freshbooks.com/our-team.php#ryan" title="FreshBooks"><em>FreshBooks</em></a></dd>
+					<dd class="half"><a href="https://plus.google.com/100893252150236411014/buzz" title="Google Plus Profile"><em>Google+</em></a></dd>
+					<dd class="half"><a href="http://twitter.com/ryan953" title="Twitter profile"><em>Twitter</em></a></dd>
+					<dd class="half"><a href="https://github.com/ryan953" title="GitHub Projects"><em>GitHub</em></a></dd>
+					<dd class="half"><a href="http://ca.linkedin.com/in/ryanalbrecht" title="LinkedIn profile"><em>LinkedIn</em></a></dd>
 				</dl>
 			</section>
 	

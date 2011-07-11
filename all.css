@@ -28,12 +28,8 @@ h1 {
 }
 
 ol, ul {
-	/*margin: .5em 0 0 2em;*/
 	margin:0;
 	padding:0;
-}
-ul {
-	/*margin:.5em 0 0 .5em;*/
 }
 p, dl, ul, ol {
 	padding:.75em .5em;
@@ -62,6 +58,24 @@ dd {
 	margin: 0;
 	padding-left: 10.5em;
 }
+dd.half {
+	width:130px;
+	float:left;
+	padding:0;
+	padding-left:6px;
+}
+dd.half:nth-child(even) {
+	padding-left:10.5em;
+	padding-right: 5px;
+	border-right: 1px solid #DADADA;
+	width:129px;
+}
+dt + dd.half:nth-child(n) {
+	padding-left:.5em;
+}
+dd.half a { 
+	display:block; 
+}
 em {
 	color:black;
 	font-style:normal;
@@ -80,7 +94,7 @@ a:hover {
 	height:auto;
 	width:100%;
 }
-.wrapper:after { /* will clear the background when all children are floated*/
+.wrapper:after, section:after{ /* will clear the background when all children are floated*/
 	clear:both;
 	display:block;
 	height:0;
