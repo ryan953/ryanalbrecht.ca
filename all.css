@@ -74,7 +74,6 @@ dd.half:nth-child(even) {
 	padding-left:10.5em;
 	padding-right: 5px;
 	border-right: 1px solid #DADADA;
-	width:129px;
 }
 dt + dd.half:nth-child(n) {
 	padding-left:.5em;
