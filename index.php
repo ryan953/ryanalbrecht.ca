@@ -68,6 +68,7 @@
 				<section id="scripts">
 					<h1>Scripts</h1>
 					<ul>
+						<li><a href="https://github.com/ryan953/JS-Template">A simple javascript templating class</a></li>
 						<li><a href="//apps.ryan953.com/src/fixVideoFiles.bash">Add .avi files to your iTunes library (needs Xcode)</a></li>
 					</ul>
 				</section>
