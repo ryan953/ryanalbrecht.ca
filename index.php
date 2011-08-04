@@ -106,6 +106,7 @@
 	</div>
 	
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<!--
 	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
 	<script src="http://www.google.ca/reader/ui/publisher-en.js"></script>
 	
@@ -122,6 +123,15 @@
 		map.nodes = nodes;
 		map.links = links;
 		map.draw();*/
+	});
+	</script>
+	-->
+	
+	<script>
+	$(document).ready(function() {
+			$('a[href]').click(function() {
+					_gaq.push(['_trackEvent', 'links', 'clicked', $(this).attr('href')]);
+			});
 	});
 	</script>
 
