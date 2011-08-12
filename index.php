@@ -27,7 +27,7 @@
 				<h1>Hi there</h1>
 				<img id="portrait" src="./ryan-albrecht.jpg" alt="portrait of Ryan Albrecht"/>
 				<p>
-					My name is <em>Ryan Albrecht</em> and I create web applications and solve problems.
+					My name is <em>Ryan Albrecht</em>. I create web applications and solve problems.
 					You can find me in <em>Toronto</em>.
 				</p>
 			</section>
