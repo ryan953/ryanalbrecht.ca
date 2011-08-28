@@ -36,7 +36,7 @@
 				<h1>How to get in touch</h1>
 				<dl>
 					<dt>Email/MSN/GTalk</dt>
-					<dd><a href="mailto:ryan@ryanalbrecht.ca" title="My Email"><em>ryan@ryanalbrecht.ca</em></a></dd>
+					<dd><a href="mailto:ryan@ryanalbrecht.ca" rel="me" title="My Email"><em>ryan@ryanalbrecht.ca</em></a></dd>
 	
 					<dt>Resume/CV</dt>
 					<dd>
@@ -46,11 +46,11 @@
 					</dd>
 					
 					<dt>Other Places</dt>
-					<dd class="half"><a href="http://www.freshbooks.com/our-team.php#ryan" title="My job working at FreshBooks"><em>FreshBooks</em></a></dd>
-					<dd class="half"><a href="https://plus.google.com/100893252150236411014/buzz" title="Google Plus profile"><em>Google+</em></a></dd>
-					<dd class="half"><a href="http://twitter.com/ryan953" title="Twitter profile"><em>Twitter</em></a></dd>
-					<dd class="half"><a href="https://github.com/ryan953" title="GitHub projects"><em>GitHub</em></a></dd>
-					<dd class="half"><a href="http://ca.linkedin.com/in/ryanalbrecht" title="LinkedIn profile"><em>LinkedIn</em></a></dd>
+					<dd class="half"><a rel="me" href="http://www.freshbooks.com/our-team.php#ryan" title="My job working at FreshBooks"><em>FreshBooks</em></a></dd>
+					<dd class="half"><a rel="me" href="https://plus.google.com/100893252150236411014/buzz" title="Google Plus profile"><em>Google+</em></a></dd>
+					<dd class="half"><a rel="me" href="http://twitter.com/ryan953" title="Twitter profile"><em>Twitter</em></a></dd>
+					<dd class="half"><a rel="me" href="https://github.com/ryan953" title="GitHub projects"><em>GitHub</em></a></dd>
+					<dd class="half"><a rel="me" href="http://ca.linkedin.com/in/ryanalbrecht" title="LinkedIn profile"><em>LinkedIn</em></a></dd>
 				</dl>
 			</section>
 	
