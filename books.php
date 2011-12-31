@@ -8,7 +8,10 @@ function books() {
 			'done'=>true
 		),
 		array('name'=>'Mastering Regular Expressions'),
-		array('name'=>'Design Patterns'),
+		array(
+			'name'=>'Design Patterns',
+			'done'=>true
+		),
 		array(
 			'name'=>'Peopleware',
 			'done'=>true
