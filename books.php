@@ -9,7 +9,10 @@ function books() {
 		),
 		array('name'=>'Mastering Regular Expressions'),
 		array('name'=>'Design Patterns'),
-		array('name'=>'Peopleware'),
+		array(
+			'name'=>'Peopleware',
+			'done'=>true
+		),
 		array('name'=>'Programming Pearls'),
 		array('name'=>'Algorithm Design Manual'),
 		array(
