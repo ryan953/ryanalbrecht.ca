@@ -80,7 +80,7 @@ function _addBookAttributes($books) {
 }
 function getBookList($books, $showDone = true) {
 	$out = '';
-	foreach ($books as $book) {
+	foreach ($books as $key=>$book) {
 		if ($book['done'] == $showDone) {
 			//$out .= "<li><strike>{$book['name']}</strike>";
 			$out .= "<li>{$book['name']}";

@@ -99,7 +99,7 @@ a:hover {
 	height:auto;
 	width:100%;
 }
-.wrapper:after, section:after{ /* will clear the background when all children are floated*/
+.wrapper:after, .content:after { /* will clear the background when all children are floated*/
 	clear:both;
 	display:block;
 	height:0;
@@ -109,8 +109,9 @@ a:hover {
 }
 
 .wrapper .content {
-	width:30em;
+	width:30.75em;
 	margin:1em;
+	float:left;
 }
 
 @media print {
@@ -129,7 +130,6 @@ body {
 @media screen and (max-width: 1600px) {
 	.civilization { background-position: top left; }
 }
-
 
 .stacked {
 	position:relative;
@@ -150,10 +150,13 @@ section {
 	border-color:white #DADADA #DADADA white;
 	padding:.6875em;
 	margin-bottom:.75em;
+	margin-right: .75em;
 	background:#F0F0F0;
 	-moz-border-radius:.1875em;
 	-webkit-border-radius:.1875em;
 	border-radius:.1875em;
+	float:left;
+	width:28.5em;
 }
 
 section > h1, section >:first-child {
@@ -164,6 +167,8 @@ section section {
 	border:none;
 	margin-bottom:0;
 	padding:.375em;
+	float:none;
+	width:auto;
 }
 section section h1 {
 	font-size:1.25em;
