@@ -56,8 +56,8 @@
 			</section>
 	
 			<section id="projects">
-				<h1>Side Projects</h1>
 				<section id="apps">
+					<h1>On The Web</h1>
 					<ul>
 						<li><a href="//apps.ryan953.com/sets">Sets! Card Game</a></li>
 						<li><a href="//andthatisafact.com">And That Is A Fact</a></li>
@@ -68,30 +68,29 @@
 				</section>
 	
 				<section id="scripts">
-					<h1>Scripts</h1>
+					<h1>To Download</h1>
 					<ul>
 						<li><a href="https://github.com/ryan953/JS-Template">A simple javascript templating class</a></li>
 						<li><a href="//apps.ryan953.com/src/fixVideoFiles.bash">Add .avi files to your iTunes library (needs Xcode)</a></li>
 					</ul>
 				</section>
 			</section>
-			
+		
 			<?php include('books.php'); ?>
 			
 			<section id="books">
-				<h1>Reading List</h1>
 				<section id="my-shelf">
 					<h1>Books I've Read</h1>
 					<ul>
 						<?php echo getBookList(books(), true); ?>
 					</ul>
 				</section>
-				<section id="wish-list">
+				<!--<section id="wish-list">
 					<h1 class="toggler">My Wish List</h1>
 					<ul>
 						<?php echo getBookList(books(), false); ?>
 					</ul>
-				</section>
+				</section>-->
 			</section>
 			
 			<?php
