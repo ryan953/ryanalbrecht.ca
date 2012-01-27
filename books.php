@@ -61,7 +61,10 @@ function books() {
 		array('name'=>'Programming Collective Intelligence'),
 		array('name'=>'Delivering happiness'),
 		array('name'=>'Refactoring: Improving the Design of Existing Code'),
-		array('name'=>'Erlang and OTP in Action')
+		array('name'=>'Erlang and OTP in Action'),
+		array(
+			'name'=>'Steve Jobs',
+			'done'=>true),
 	);
 	return _addBookAttributes($books);
 }
