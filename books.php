@@ -38,7 +38,7 @@ function books() {
 		),
 		array('name'=>'Domain Driven Design'),
 		array('name'=>'Visual Display of Quantitative Information'),
-		
+
 		//unsorted
 		array(
 			'name'=>'Dreaming in Code',
