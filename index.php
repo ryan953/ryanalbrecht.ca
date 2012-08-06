@@ -81,7 +81,7 @@
 
 			<section id="books">
 				<section id="my-shelf">
-					<h1>Books I've Read</h1>
+					<h1>Tech-Related Books I've Read</h1>
 					<ul>
 						<?php echo getBookList(books(), true); ?>
 					</ul>

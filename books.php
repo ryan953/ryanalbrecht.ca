@@ -2,7 +2,7 @@
 function books() {
 	$books = array(
 		//sorted
-		array('name'=>'Code Complete'),
+		array('name'=>'Code Complete', 'done'=>true),
 		array(
 			'name'=>"Don't Make me Think",
 			'done'=>true
@@ -65,6 +65,10 @@ function books() {
 		array(
 			'name'=>'Steve Jobs',
 			'done'=>true),
+		array('name'=>'Learning jQuery', 'done'=>true),
+		array('name'=>'JavaScript: The Definitive Guide', 'done'=>true),
+		array('name'=>'JavaScript: The Good Pars', 'done'=>true),
+
 	);
 	return _addBookAttributes($books);
 }
