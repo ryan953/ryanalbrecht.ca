@@ -47,7 +47,7 @@
 					</dd>
 
 					<dt>Other Places</dt>
-					<dd class="half"><a rel="me" href="http://www.freshbooks.com/our-team.php#ryan" title="My job working at FreshBooks"><em>FreshBooks</em></a></dd>
+					<dd class="half"><a rel="me" href="http://www.freshbooks.com/team/ryan" title="My job working at FreshBooks"><em>FreshBooks</em></a></dd>
 					<dd class="half"><a rel="me" href="https://plus.google.com/100893252150236411014" title="Google Plus profile"><em>Google+</em></a></dd>
 					<dd class="half"><a rel="me" href="http://twitter.com/ryan953" title="Twitter profile"><em>Twitter</em></a></dd>
 					<dd class="half"><a rel="me" href="https://github.com/ryan953" title="GitHub projects"><em>GitHub</em></a></dd>
