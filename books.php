@@ -67,8 +67,8 @@ function books() {
 			'done'=>true),
 		array('name'=>'Learning jQuery', 'done'=>true),
 		array('name'=>'JavaScript: The Definitive Guide', 'done'=>true),
-		array('name'=>'JavaScript: The Good Pars', 'done'=>true),
-
+		array('name'=>'JavaScript: The Good Parts', 'done'=>true),
+		array('name'=>'Practical Object-Oriented Design in Ruby', 'done'=>true),
 	);
 	return _addBookAttributes($books);
 }
