@@ -134,6 +134,20 @@
 			background-image: url(data:image/gif;base64,R0lGODlhEAAQAJEAAAAAAP///9YhKP///yH5BAEAAAMALAAAAAAQABAAAAImnI+pJrsCnYovtUeZzOMiT0Eec4nmcXbmyrGr5apwKEofZ4/2UgAAOw==);
 		}
 	}
+
+	@media print {
+		[rel=me] {
+			visibility: hidden;
+		}
+		[rel=me]:after {
+			visibility: visible;
+			content: attr(href);
+			display: block;
+			position: relative;
+			top: -1em;
+			margin-bottom: -1em;
+		}
+	}
 	</style>
 </head>
 <body class="hresume">
