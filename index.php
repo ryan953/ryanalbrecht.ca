@@ -29,7 +29,7 @@
 				<img id="portrait" src="./ryan-albrecht.jpg" alt="portrait of Ryan Albrecht"/>
 				<p>
 					My name is <em>Ryan Albrecht</em>. I create web applications and solve problems.
-					You can find me in <em>Toronto</em>.
+					You can find me in <em>San Francisco</em>.
 				</p>
 			</section>
 
@@ -47,7 +47,6 @@
 					</dd>
 
 					<dt>Other Places</dt>
-					<dd class="half"><a rel="me" href="http://www.freshbooks.com/team/ryan" title="My job working at FreshBooks"><em>FreshBooks</em></a></dd>
 					<dd class="half"><a rel="me" href="https://github.com/ryan953" title="GitHub projects"><em>GitHub</em></a></dd>
 					<dd class="half"><a rel="me" href="http://ca.linkedin.com/in/ryanalbrecht" title="LinkedIn profile"><em>LinkedIn</em></a></dd>
 					<dd class="half"><a rel="me" href="http://stackoverflow.com/users/98206/ryan953" title="StackOverflow profile"><em>Stack Overflow</em></a></dd>
