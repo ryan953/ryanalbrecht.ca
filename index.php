@@ -37,14 +37,7 @@
 				<h1>How to get in touch</h1>
 				<dl>
 					<dt>Email/MSN/GTalk</dt>
-					<dd><a href="mailto:ryan@ryanalbrecht.ca" rel="me" title="My Email"><em>ryan@ryanalbrecht.ca</em></a></dd>
-
-					<dt>Resume/CV</dt>
-					<dd>
-						<a href="albrecht_ryan_resume.html" title="My Resume"><em>HTML</em></a>
-						or
-						<a href="albrecht_ryan_resume.pdf" title="My Resume"><em>PDF</em></a>
-					</dd>
+					<dd><a href="mailto:hello@ryanalbrecht.ca" rel="me" title="My Email"><em>hello@ryanalbrecht.ca</em></a></dd>
 
 					<dt>Other Places</dt>
 					<dd class="half"><a rel="me" href="https://github.com/ryan953" title="GitHub projects"><em>GitHub</em></a></dd>
