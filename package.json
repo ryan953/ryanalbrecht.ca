@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Example Flux chat application primarily intended to explain the use of Dispatcher.waitFor().",
   "scripts": {
-    "publish": "rsync -vzhr --exclude='/.git' . ryan953@ryan953.com:~/ryanalbrecht.ca"
+    "publish": "rsync -vzhr --delete --delete-excluded --exclude='/.git' . ryan953@ryan953.com:~/ryanalbrecht.ca"
   },
   "author": "Ryan Albrecht"
 }
