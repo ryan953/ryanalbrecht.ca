@@ -26,7 +26,7 @@
 
 			<section id="introduction">
 				<h1>Hi there</h1>
-				<img id="portrait" src="./ryan-albrecht.jpg" alt="portrait of Ryan Albrecht"/>
+				<img id="portrait" src="./photos/ryan-albrecht-2015.jpg" alt="portrait of Ryan Albrecht"/>
 				<p>
 					My name is <em>Ryan Albrecht</em>. I create web applications and solve problems.
 					You can find me in <em>San Francisco</em>.
