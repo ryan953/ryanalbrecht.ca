@@ -81,7 +81,7 @@
 			</section>
 
 			<?php include('books.php'); ?>
-
+			<!--
 			<section id="books">
 				<section id="my-shelf">
 					<h1>Tech-Related Books I've Read</h1>
@@ -89,13 +89,14 @@
 						<?php echo getBookList(books(), true); ?>
 					</ul>
 				</section>
-				<!--<section id="wish-list">
+				<section id="wish-list">
 					<h1 class="toggler">My Wish List</h1>
 					<ul>
 						<?php echo getBookList(books(), false); ?>
 					</ul>
-				</section>-->
+				</section>
 			</section>
+			-->
 
 			<?php
 			$width = '720px';
