@@ -51,18 +51,31 @@
 					<h1>On The Web</h1>
 					<ul>
 						<li><a href="//apps.ryan953.com/sets">Sets! Card Game</a></li>
-						<li><a href="//andthatisafact.com">And That Is A Fact</a></li>
-						<li><a href="//bierfrau.com">Bier Frau</a></li>
-						<li><a href="//apps.ryan953.com/link_map2">JavaScript Link Map</a></li>
-						<li><a href="//apps.ryan953.com/computational_math">Computational Math Algorithms Implemented in JavaScript</a></li>
-					</ul>
-				</section>
-
-				<section id="scripts">
-					<h1>To Download</h1>
-					<ul>
+						<li>
+							<a href="https://mapmap.ryan953.com/">Map Map</a>
+							<small>(<a href="https://github.com/ryan953/mapmap">github</a>)</small>
+						</li>
+						<li>
+							<a href="https://www.npmjs.com/package/Enumjs">Enumjs</a>
+							<small>(<a href="https://github.com/ryan953/color">github</a>)</small>
+						</li>
+						<li>
+							<a href="//apps.ryan953.com/color/">Color format</a>
+							<small>
+								(<a href="//apps.ryan953.com/color/test.html">tests</a>,
+								<a href="https://github.com/ryan953/color">github</a>)
+							</small>
+						</li>
+						<li>
+							<a href="//apps.ryan953.com/guiders">Guiders 'new user experience' tooltips</a>
+							<small>(<a href="https://github.com/ryan953/GuidedTasks">github</a>)</small>
+						</li>
 						<li><a href="https://github.com/ryan953/JS-Template">A simple javascript templating class</a></li>
-						<li><a href="//apps.ryan953.com/src/fixVideoFiles.bash">Add .avi files to your iTunes library (needs Xcode)</a></li>
+						<li>
+							<a href="//apps.ryan953.com/CSSOFF2011/HTML/">CSS Off! submission</a>
+							<small>(<a href="http://www.unmatchedstyle.com/cssoff/">via unmatchedstyle.com</a>)</small>
+						</li>
+						<li><a href="//apps.ryan953.com/computational_math">Computational Math Algorithms Implemented in JavaScript</a></li>
 					</ul>
 				</section>
 			</section>
