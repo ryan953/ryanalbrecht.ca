@@ -50,6 +50,11 @@
 				<section id="apps">
 					<h1>On The Web</h1>
 					<ul>
+						<li>
+							<a href="https://code.facebook.com/posts/964122680272229/web-performance-cache-efficiency-exercise/">
+								Web performance: Cache efficiency exercise
+							</a>
+						</li>
 						<li><a href="//apps.ryan953.com/sets">Sets! Card Game</a></li>
 						<li>
 							<a href="https://mapmap.ryan953.com/">Map Map</a>
@@ -57,7 +62,7 @@
 						</li>
 						<li>
 							<a href="https://www.npmjs.com/package/Enumjs">Enumjs</a>
-							<small>(<a href="https://github.com/ryan953/color">github</a>)</small>
+							<small>(<a href="https://github.com/ryan953/Enumjs">github</a>)</small>
 						</li>
 						<li>
 							<a href="//apps.ryan953.com/color/">Color format</a>
