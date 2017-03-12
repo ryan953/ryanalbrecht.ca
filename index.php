@@ -36,7 +36,7 @@
 			<section id="contact-info">
 				<h1>How to get in touch</h1>
 				<dl>
-					<dt>Email/MSN/GTalk</dt>
+					<dt>Email</dt>
 					<dd><a href="mailto:hello@ryanalbrecht.ca" rel="me" title="My Email"><em>hello@ryanalbrecht.ca</em></a></dd>
 
 					<dt>Other Places</dt>
