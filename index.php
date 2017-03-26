@@ -61,6 +61,10 @@
 							<small>(<a href="https://github.com/ryan953/mapmap">github</a>)</small>
 						</li>
 						<li>
+							<a href="https://www.npmjs.com/package/flow-annotation-check">flow-annotation-check</a>
+							<small>(<a href="https://github.com/ryan953/flow-annotation-check">github</a>)</small>
+						</li>
+						<li>
 							<a href="https://www.npmjs.com/package/Enumjs">Enumjs</a>
 							<small>(<a href="https://github.com/ryan953/Enumjs">github</a>)</small>
 						</li>
