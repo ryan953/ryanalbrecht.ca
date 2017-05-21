@@ -51,6 +51,11 @@
 					<h1>On The Web</h1>
 					<ul>
 						<li>
+							<a href="https://github.com/ryan953/ryanalbrecht.ca/blob/master/blog/react-howto.md">
+								How to simply use React.js
+							</a>
+						</li>
+						<li>
 							<a href="https://code.facebook.com/posts/964122680272229/web-performance-cache-efficiency-exercise/">
 								Web performance: Cache efficiency exercise
 							</a>
