@@ -51,9 +51,7 @@
 					<h1>On The Web</h1>
 					<ul>
 						<li>
-							<a href="https://medium.com/@Pinterest_Engineering/introducing-bonsai-an-open-source-webpack-analyzer-6bdfe22f8984">
-								Introducing Bonsai Webpack Analyzer
-							</a>
+							<a href="https://medium.com/@Pinterest_Engineering/introducing-bonsai-an-open-source-webpack-analyzer-6bdfe22f8984">Introducing Bonsai Webpack Analyzer</a>
 							<small>(<a href="https://github.com/pinterest/bonsai/">github</a>)</small>
 						</li>
 						<li>
