@@ -263,7 +263,7 @@
 +        return r'^m/search/$'
 +
 +    def get_denzel_config(self, request, *args, **kwargs):
-+        raise RouteConfig(
++        return RouteConfig(
 +            module='MessengerSearchExtension',
 +            resource={
 +                'name': 'BaseSearchResource',
