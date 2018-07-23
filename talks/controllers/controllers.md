@@ -6,8 +6,6 @@
 
 ![](./img/nintendo-controllers.jpg)
 
-^ https://www.pinmart.com/retro-gamer-5-pin-set/?gclid=EAIaIQobChMI0ZT0hNuu3AIVi_5kCh1ujgyyEAQYBCABEgIPmvD_BwE
-
 ---
 
 # [fit] Problem
@@ -72,13 +70,11 @@
 
 1. Why :white_check_mark:
 1. **What's new**
+1. Learnings
 
-<!-- 1. Learnings
-1. Next steps -->
+<!-- 1. Next steps -->
 
 ![](./img/nes-advantage-hero.jpg)
-
-^ http://www.saharamicro.com/-2x-super-nintendo-snes-usb-controller-game-pad-for-pc-raspberry-pi-3-retropie-p-1649.html
 
 ---
 
@@ -167,9 +163,9 @@
 1. Why
 1. **What's new**
  - **Dynamic Route Order :white_check_mark:**
+1. Learnings
 
-<!-- 1. Learnings
-1. Next steps -->
+<!-- 1. Next steps -->
 
 ![](./img/300px-N64-Rumble-Pak.jpg)
 
@@ -203,9 +199,9 @@
 1. **What's new**
  - **Dynamic Route Order :white_check_mark:**
  - **Denzel is Optional :white_check_mark:**
+1. Learnings
 
-<!-- 1. Learnings
-1. Next steps -->
+<!-- 1. Next steps -->
 
 ![](./img/GameCube_Controller.png)
 
@@ -383,8 +379,51 @@
 | ----- | ---- |
 | **84** days (incl weekends + pto) | **4** abstract base controllers |
 | **2** diffs at 1 line each | **196** www controllers |
-| **13** diffs under 10 lines | **395** controllers |
+| **13** diffs under 10 lines | **395** controllers total |
 | **9** diffs over 1,000 lines | **30,305** lines touched |
+
+---
+
+# [fit] Small projects
+# [fit] get **BIG**
+
+^ Projects rarely get easier than we thought, only harder.
+
+---
+
+# [fit] Big projects get
+# [fit] **HUGE**
+
+^ If projects do get easier, that's great we can all go play mario. When they run long though, you're in trouble.
+
+---
+
+# [fit] LEVERAGE
+## **smaller**
+# [fit] SCOPE
+
+^ Smaller diffs are good, even better are experiments/prototypes. Get shipping code, ship a small cow then iterate!
+
+---
+
+# [fit] **1. Analytics**
+# [fit] 2. Eval
+# [fit] **3. Sterling**
+# [fit] 4. WWW
+
+^ By doing the work on Analytics, Eval, Sterling, then WWW we were able to test out different things are take on complexity incrementally. Each site has it's own special considerations so by doing the smaller ones first we can make sure that we can handle that complexity.
+^ Figure out what we will need to solve for, then incrementally get there with one route at a time.
+
+---
+
+# [fit] **1. Analytics :heart:**
+# [fit] 2. Eval :heart:
+# [fit] **3. Sterling :heart:**
+# [fit] 4. WWW :heart:
+
+^ Special thanks to all the people on analytics, eval and sterling who got sucked in and helped review diffs and identify & make fixes.
+^ The more different these four apps are the harder it is, but we've removed a few of those differences now for the better.
+
 
 <!--
 
@@ -408,7 +447,7 @@
 
 ---
 
-## Next Steps?
+## More reading
 
 - [Simplifying URL to View Mapping in Pinboard] (https://docs.google.com/document/d/1f4uakRERtxIf6n3J64UO0nzzJY5AEJ8g6t-dDSKacVE/edit?usp=sharing)
 - [Future webapp/ Capabilities Brainstorm](https://docs.google.com/document/d/10LdHEg6YE5gtLaX3YkKmM-LCUxZ_pIgQ2M3ktweSFZg/edit?usp=sharing)
